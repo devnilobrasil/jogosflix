@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --background: #1d1d1d;
+    --branco: #e6e6e6;
+    
+}
+
+.block{
+    max-width: 1366px;
+    margin: 0 auto;
+}
